@@ -1,0 +1,246 @@
+[
+  {
+    "review_id": "9314d6f9799f5bfba510cc7bcd468c01",
+    "issues": [],
+    "sentiment_score": -0.5,
+    "actionable_for_seller": false,
+    "confidence": 0.6
+  },
+  {
+    "review_id": "373cbeecea8286a2b66c97b1b157ec46",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "2c5e27fc178bde7ac173c9c62c31b070",
+    "issues": [],
+    "sentiment_score": -0.8,
+    "actionable_for_seller": false,
+    "confidence": 0.6
+  },
+  {
+    "review_id": "58044bca115705a48fe0e00a21390c54",
+    "issues": [
+      {
+        "category": "delivery_late",
+        "severity": "medium",
+        "evidence_quote": "No stark o prazo máximo já se esgotou e ainda não recebi o produto.",
+        "evidence_quote_en": "At Stark the maximum deadline has already expired and I still haven't received the product."
+      }
+    ],
+    "sentiment_score": -0.6,
+    "actionable_for_seller": true,
+    "confidence": 0.9
+  },
+  {
+    "review_id": "e233e51d11511bf30e568c76360ace52",
+    "issues": [
+      {
+        "category": "missing_item",
+        "severity": "medium",
+        "evidence_quote": "Faltou Controle Remoto para Ar Condicionado Consul",
+        "evidence_quote_en": "The remote control for the Consul air conditioner was missing"
+      }
+    ],
+    "sentiment_score": -0.7,
+    "actionable_for_seller": true,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "8b230a1373c6dc4bd867099fda1d7039",
+    "issues": [
+      {
+        "category": "missing_item",
+        "severity": "medium",
+        "evidence_quote": "Eu comprei duas unidades e só recebi uma e agora o que faço?",
+        "evidence_quote_en": "I bought two units and only received one, and now what do I do?"
+      }
+    ],
+    "sentiment_score": -0.6,
+    "actionable_for_seller": true,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "cb2fc3e5711b5ae85e0491ee18af63ed",
+    "issues": [
+      {
+        "category": "wrong_product",
+        "severity": "medium",
+        "evidence_quote": "o que veio para mim não condiz com a foto do anúncio",
+        "evidence_quote_en": "what came to me does not match the photo in the listing"
+      }
+    ],
+    "sentiment_score": -0.2,
+    "actionable_for_seller": true,
+    "confidence": 0.9
+  },
+  {
+    "review_id": "0bd4dcc4f6c4621baf37f73495cad8c4",
+    "issues": [],
+    "sentiment_score": 0.7,
+    "actionable_for_seller": false,
+    "confidence": 0.99
+  },
+  {
+    "review_id": "ff722b4c68783a4459a3adb9bb4e1d0d",
+    "issues": [
+      {
+        "category": "quality_defect",
+        "severity": "medium",
+        "evidence_quote": "meu PC não conseguiu reconhecer as portas USB",
+        "evidence_quote_en": "my PC couldn't recognize the USB ports"
+      }
+    ],
+    "sentiment_score": -0.5,
+    "actionable_for_seller": true,
+    "confidence": 0.85
+  },
+  {
+    "review_id": "5c37d7ba6ef2f031c34bb4fda3454018",
+    "issues": [
+      {
+        "category": "delivery_late",
+        "severity": "medium",
+        "evidence_quote": "Demorou de mais pra entrega",
+        "evidence_quote_en": "It took too long for delivery"
+      }
+    ],
+    "sentiment_score": -0.6,
+    "actionable_for_seller": true,
+    "confidence": 0.98
+  },
+  {
+    "review_id": "46d8249ea59101c7288936c3e6f155d7",
+    "issues": [
+      {
+        "category": "seller_communication",
+        "severity": "medium",
+        "evidence_quote": "Não houve comunicado do loja.",
+        "evidence_quote_en": "There was no communication from the store."
+      },
+      {
+        "category": "other",
+        "severity": "low",
+        "evidence_quote": "Cheguei a pensar que só haviam enviado parte do produto.",
+        "evidence_quote_en": "I even thought they had only sent part of the product."
+      }
+    ],
+    "sentiment_score": -0.5,
+    "actionable_for_seller": true,
+    "confidence": 0.85
+  },
+  {
+    "review_id": "c422274e50e900b46fee429016c5458d",
+    "issues": [],
+    "sentiment_score": 1,
+    "actionable_for_seller": false,
+    "confidence": 1
+  },
+  {
+    "review_id": "ce1f9aed6a191369b2be663a1ef256fd",
+    "issues": [],
+    "sentiment_score": 1,
+    "actionable_for_seller": false,
+    "confidence": 1
+  },
+  {
+    "review_id": "19d1d152c3a0e9dda82e23176469c8c9",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "63b4116e117b542eb85389471c7d6c40",
+    "issues": [],
+    "sentiment_score": 1,
+    "actionable_for_seller": false,
+    "confidence": 1
+  },
+  {
+    "review_id": "0bb09618b24d6de1e9bf4fee647023ae",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "5fd33381e99f3af28abc173071bb74ad",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "b8fab172a4c5588e3a435f451e4c911f",
+    "issues": [],
+    "sentiment_score": 1,
+    "actionable_for_seller": false,
+    "confidence": 1
+  },
+  {
+    "review_id": "1f5a8d2d530eba649e2182fb41eb9dcf",
+    "issues": [],
+    "sentiment_score": 1,
+    "actionable_for_seller": false,
+    "confidence": 1
+  },
+  {
+    "review_id": "7f09f03694c54612dbfcaeed363077d2",
+    "issues": [],
+    "sentiment_score": 1,
+    "actionable_for_seller": false,
+    "confidence": 1
+  },
+  {
+    "review_id": "dca44f7f3fc3910f01b43a82379d4278",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "f3ed93e9a9460eb6cc7fcc5d93e979b7",
+    "issues": [],
+    "sentiment_score": 1,
+    "actionable_for_seller": false,
+    "confidence": 1
+  },
+  {
+    "review_id": "46ffd6fad1105a0f497956cc11d24bf4",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "d683d9139b0f78792f328b0464ba7a2e",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "38e460a32d4678af3570a66a785be53c",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "4d608fd4c61ba28cd812542e929f1056",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  },
+  {
+    "review_id": "0f80e3076617983291eb9fd9c1dc3498",
+    "issues": [],
+    "sentiment_score": -0.9,
+    "actionable_for_seller": false,
+    "confidence": 0.95
+  }
+]
